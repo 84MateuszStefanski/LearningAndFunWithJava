@@ -1,0 +1,9 @@
+Name: Jan
+Age: 34
+Email: jan@oracle.com
+Phone: 1234567890
+
+FileChannel - umożliwia zapis i odczyt danych z pliku
+DatagramChannel - umożliwia zapis i odczyt danych po protokole UDP
+SocketChannel - umożliwia zapis i odczyt danych po protokole TCP
+ServerSocketChannel - umożliwia nasłuchiwanie na nadchodzące połączenia TCP
